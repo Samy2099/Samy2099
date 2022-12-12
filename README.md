@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samy2099
 - 👀 I’m interested in the next God Of War ⚔️
-- 🌱 I’m currently learning cybersecurity 👨‍💻
+- 🌱 I’m currently learning Cybersecurity 👨‍💻
 
 <!---
 Samy2099/Samy2099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
